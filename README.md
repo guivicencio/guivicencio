@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋! Meu nome é Guilherme e curso desenvolvimento de sistemas no Senac</h1>
+<h1 align="left">Olá 👋! Me chamo Guilherme e curso desenvolvimento de sistemas no Senac</h1>
 
 ###
 
